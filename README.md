@@ -1,14 +1,13 @@
 ---
+
 # 🏢 MyCompany — Modular Company Management System (Java + Maven)
-https://img.shields.io/badge/Platform-Java-blue
-https://img.shields.io/badge/Build%20Tool-Maven-green
-https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange
-https://img.shields.io/badge/Code%20Quality-Qodana-yellow
+
 A complete Java-based modular application designed for managing core company operations.
 The system organizes functionality into separate modules for customers, products, orders, and suppliers.
 This repository contains the full project, including all major modules and the root Maven configuration located inside MyCompany/MyCompany/MyCompany.
 
 ---
+
 ## 📌 Tech Stack
 
 Language: Java
@@ -45,37 +44,31 @@ A modular application designed to manage essential company operations:
 ---
 
 ## 📘 Main Features (Modules)
-👤 1. Customer Management
-
-Manage customer data
-CRUD operations for customer records
+### 👤 1. Customer Management
+- Manage customer data
+- CRUD operations for customer records
 
 ### 📦 2. Product Management
-
-Maintain product catalog
-Track product attributes and stock metadata
+- Maintain product catalog
+- Track product attributes and stock metadata
 
 ### 🛒 3. Order Management
-
-Create and process orders
-Track order lifecycle
+- Create and process orders
+- Track order lifecycle
 
 ### 🚚 4. Supplier & Supply Chain
-
-Manage supplier details
-Handle supply flows and inventory
+- Manage supplier details
+- Handle supply flows and inventory
 
 ### 🧪 5. Demo Module
-
-Sandbox for experiments and sample workflows
+- Sandbox for experiments and sample workflows
 
 
 ## 🛠️ How to Build & Run
 ### 1. Requirements
-
-Java (JDK 8 or later)
-Maven installed
-IntelliJ IDEA (recommended)
+- Java (JDK 8 or later)
+- Maven installed
+- IntelliJ IDEA (recommended)
 
 ### 2. Steps
 ```
@@ -84,9 +77,10 @@ mvn clean package     # Build all modulesShow more lines
 ```
 ### 3. Open in IDE
 
-Open MyCompany/MyCompany/MyCompany in IntelliJ IDEA
-Import as Maven project when prompted
+- Open MyCompany/MyCompany/MyCompany in IntelliJ IDEA
+- Import as Maven project when prompted
 
+---
 
 ## ✅ Notes
 
