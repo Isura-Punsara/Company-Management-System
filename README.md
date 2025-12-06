@@ -10,10 +10,10 @@ This repository contains the full project, including all major modules and the r
 
 ## 📌 Tech Stack
 
-Language: Java
-Build Tool: Maven
-IDE: IntelliJ IDEA
-Static Analysis: JetBrains Qodana
+- Language: Java
+- Build Tool: Maven
+- IDE: IntelliJ IDEA
+- Static Analysis: JetBrains Qodana
 
 ---
 
@@ -35,11 +35,11 @@ MyCompany/
 ## ✨ System Overview
 A modular application designed to manage essential company operations:
 
-✔ Customer data and operations
-✔ Product catalog and attributes
-✔ Order creation and tracking
-✔ Supplier and supply-chain management
-✔ Demo workflows for testing
+- ✔ Customer data and operations
+- ✔ Product catalog and attributes
+- ✔ Order creation and tracking
+- ✔ Supplier and supply-chain management
+- ✔ Demo workflows for testing
 
 ---
 
@@ -84,5 +84,5 @@ mvn clean package     # Build all modulesShow more lines
 
 ## ✅ Notes
 
-Inspect pom.xml for dependencies and module details.
-Additional setup (e.g., database or frameworks) may be required based on module-level configurations.
+- Inspect pom.xml for dependencies and module details.
+- Additional setup (e.g., database or frameworks) may be required based on module-level configurations.
