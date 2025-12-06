@@ -1,6 +1,6 @@
 ---
 
-# 🏢 MyCompany — Modular Company Management System (Java + Maven)
+# 🏢 Company Management System (Java + Maven)
 
 A complete Java-based modular application designed for managing core company operations.
 The system organizes functionality into separate modules for customers, products, orders, and suppliers.
