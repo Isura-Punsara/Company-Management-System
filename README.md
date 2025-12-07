@@ -1,10 +1,9 @@
----
+---# 🏢 Company Management System (Java + Maven)
 
-# 🏢 Company Management System (Java + Maven)
+A complete **Java-based modular application** designed for managing core company operations.  
+The system organizes functionality into separate modules for **customers**, **products**, **orders**, and **suppliers**.  
+This repository includes all modules along with the **root Maven configuration** located inside:
 
-A complete Java-based modular application designed for managing core company operations.
-The system organizes functionality into separate modules for customers, products, orders, and suppliers.
-This repository contains the full project, including all major modules and the root Maven configuration located inside MyCompany/MyCompany/MyCompany.
 
 ---
 
