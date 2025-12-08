@@ -1,4 +1,3 @@
----
 # 🏢 Company Management System (Java + Maven)
 
 A complete **Java-based modular application** designed for managing core company operations.  
@@ -6,14 +5,15 @@ The system organizes functionality into separate modules for **customers**, **pr
 This repository includes all modules along with the **root Maven configuration** located inside:
 
 
+
 ---
 
 ## 📌 Tech Stack
 
-- Language: Java
-- Build Tool: Maven
-- IDE: IntelliJ IDEA
-- Static Analysis: JetBrains Qodana
+- **Language:** Java  
+- **Build Tool:** Maven  
+- **IDE:** IntelliJ IDEA  
+- **Static Analysis:** JetBrains Qodana  
 
 ---
 
@@ -21,14 +21,14 @@ This repository includes all modules along with the **root Maven configuration**
 ```
 MyCompany/
 │
-├── customers/       ← Customer Management Module
-├── myproduct/       ← Product Catalog Module
-├── myorder/         ← Order Management Module
-├── mysupply/        ← Supplier & Supply Chain Module
-├── demo2/           ← Demo / Example Code
-├── pom.xml          ← Root Maven Project Descriptor
-├── .gitignore       ← Standard Java/Maven & IDE ignores
-└── qodana.yaml      ← Code Quality Configuration
+├── customers/ ← Customer Management Module
+├── myproduct/ ← Product Catalog Module
+├── myorder/ ← Order Management Module
+├── mysupply/ ← Supplier & Supply Chain Module
+├── demo2/ ← Demo / Example Code
+├── pom.xml ← Root Maven Project Descriptor
+├── .gitignore ← Standard Java/Maven & IDE ignores
+└── qodana.yaml ← Code Quality Configuration
 ```
 ---
 
